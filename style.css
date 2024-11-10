@@ -5,15 +5,6 @@ body {
     
 }
 
-.border{
-    height: 500px;
-    width: 730px;
-    border-style: solid;
-    padding-left: 30px;
-    position: relative;
-    margin: auto;
-}
-
 .container{
     width: 1400px;
     border-style: solid;
@@ -58,19 +49,12 @@ a {
 }
 
 h1{
-    font-size: 4em;
+    font-size: 3em;
     margin-top: 30px;
-}
-
-.title{
-    height: 70px;
-    width: 1000px;
-}
-
-.favorites{
- margin-top: 40px;
- padding-left: 0px;
- list-style-type: none;
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;  
 }
 
 p, ul, ol {
